@@ -1,4 +1,4 @@
-# kubernetes-from-scratch
+# kubernetescluster-from-scratch
 
 Code and everything required to deploy a cluster from absolute basics consisting of 2 worker nodes and one master node. 
 
